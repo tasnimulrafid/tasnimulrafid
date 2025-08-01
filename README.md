@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Md Tasnimul Hasan Rafid
 - 📖 Pursuing a BSc in Electrical & Computer Engineering at Rajshahi University of Engineering & Technology (RUET)
-- 👀 I’m interested in Cybersecurity & Ethical Hacking
-- 🌱 I’m currently learning bug hunting
-- 💞️ I’m looking to collaborate on virus & malware removal projects
+- 👀 I’m interested in Cybersecurity
 - 📫 How to reach me > Email: tasnimulrafid112@gmail.com
 
 <!---
